@@ -4,6 +4,11 @@ __pycache__/
 .streamlit/secrets.toml
 data/processed/*.csv
 data/processed/*.json
+data/raw/*
+data/warehouse/*
 models/*
 !data/processed/.gitkeep
+!data/raw/.gitkeep
+!data/warehouse/.gitkeep
 !models/.gitkeep
+
